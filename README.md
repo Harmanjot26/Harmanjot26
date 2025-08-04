@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Harmanjot Kaur! 🚀</h1>
-<h3 align="center">🌟 Passionate ECE Undergrad | 🔍 Risk Control Explorer | 🤖 AI/ML Enthusiast | 💡 Multidomain Problem Solver</h3>
+<h3 align="center">🌟 Passionate ECE Undergrad |  🤖 AI/ML Enthusiast | 💡 Multidomain Problem Solver</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harmanjot-kaur-2878b8265/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
